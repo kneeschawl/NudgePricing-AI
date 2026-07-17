@@ -1,0 +1,24 @@
+# === ENVIRONMENT SECRETS ===
+.env
+.env.*
+
+# === VIRTUAL ENVIRONMENTS ===
+.venv/
+venv/
+env/
+ENV/
+
+# === PYTHON CACHE & SYSTEM ===
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# === OPERATING SYSTEM FILES ===
+.DS_Store
+Thumbs.db
+
+# === STREAMLIT RUNTIME ===
+.streamlit/config.toml
+.streamlit/secrets.toml
