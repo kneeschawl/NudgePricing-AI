@@ -1,4 +1,4 @@
-# 📊 NudgePricing AI — Enterprise Core Suite
+# 📊 NudgePricing AI - Enterprise Core Suite
 
 NudgePricing AI is a high-standard, quantitative behavioral sandbox designed to architect, test, and optimize asymmetric pricing models. By leveraging multi-agent simulations, the application tests pricing tiers against 1,000 synthetic consumer profiles to accurately forecast market share distribution, batch revenue, and price friction before hitting production.
 
